@@ -1,0 +1,6 @@
+# 자격증명 유출 방지
+.env
+*.key
+*_secret*
+__pycache__/
+*.pyc
