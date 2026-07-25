@@ -1,0 +1,1056 @@
+{
+  "query": {
+    "financeCd": "0010238",
+    "listNo": "SK009",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12538434000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1840022000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "976084880000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "615221930000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "81951710000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "277737690000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "2.22"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "15.09"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".65"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "63.03"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12594938310000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1902164360000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "990265000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "681620310000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "83559510000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "222198370000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.76"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "11.68"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".66"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "68.83"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12675767780000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1965586860000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1032601110000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "683972480000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "84445140000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "259574870000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "2.05"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "13.21"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".67"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "66.24"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12792967580000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2032174330000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1164658140000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "816117500000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "80335570000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "260851130000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "2.04"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "12.84"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".63"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "70.07"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12741957710000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2091617770000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1192661410000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "940547320000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "78732940000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "169215220000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.33"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "8.09"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".62"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "78.86"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12688596800000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2135691450000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1210248280000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1056702700000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "79970930000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "91274900000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".72"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.27"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".63"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "87.31"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12592558500000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2164964190000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1185706880000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1106574250000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "76712500000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "31934400000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".25"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "1.48"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".61"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "93.33"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12504109490000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2175530830000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1172701680000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1082978050000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "65560150000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "60324550000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".48"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "2.77"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".52"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "92.35"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12330750890000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2181625350000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1111911020000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "998033790000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "64294610000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "89889300000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".73"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.12"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".52"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.76"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12203759090000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2186630830000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1105350920000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "906939150000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "64019610000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "185685800000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.52"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "8.49"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".52"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "82.05"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12141464520000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2191006420000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1182939900000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1009586420000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "67850970000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "163313590000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.35"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.45"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".56"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "85.35"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12159029400000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2196424590000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1095466620000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "979401440000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "65841320000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "104659770000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".86"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.77"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".54"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.4"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12139951730000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2204711550000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1222514230000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1079988690000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "66904880000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "127791600000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.05"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "5.8"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".55"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "88.34"
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "query": {
+    "financeCd": "0010271",
+    "listNo": "ST117",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "33277153000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "15214000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "134820000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "85982000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "152657000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "373459000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.17"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "33845586000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "16343000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "114650000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "93975000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "122932000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "331557000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.03"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "34149006000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "11925000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "112666000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "80795000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "125997000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "319458000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".97"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "34890389000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "11321000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "113747000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "76275000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "129985000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "320007000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".95"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "34819771000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "9554000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "120020000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "75101000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "122387000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "317508000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".94"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "34805552000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "11316000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "113388000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "73009000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "120131000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "306528000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".91"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "34637742000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "19051000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "114571000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "69135000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "113443000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "297149000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".91"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "35003820000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "31407000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "123304000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "79094000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "106897000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "309295000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".97"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "34654854000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "16529000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "132520000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "94686000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "105700000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "332906000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.01"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "35184988000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "19335000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "118832000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "77076000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "116062000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "311970000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".94"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "35531049000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "15823000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "106514000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "54310000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "112166000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "272990000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".81"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "36228493000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "18066000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "108161000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "75980000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "113385000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "297526000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".87"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "36204378000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "16384000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "101279000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "58589000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "122436000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "282304000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": ".83"
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "query": {
+    "financeCd": "0010255",
+    "listNo": "ST117",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "10768224000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "32433000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "59580000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "45684000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "47543000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "152807000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.72"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "10771436000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "8989000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "71375000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "76728000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "62079000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "210182000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.03"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "10782378000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "2897000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "33544000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "66840000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "101939000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "202323000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.9"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11299311000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "13923000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "38373000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "33146000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "100071000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "171590000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.64"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11247873000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "3241000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "47341000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "38192000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "112692000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "198225000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.79"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11482565000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "3430000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "63177000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "37649000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "85835000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "186661000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.66"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11520648000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "4434000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "44543000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "43043000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "98312000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "185898000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.65"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11570818000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "8555000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "46360000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "45585000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "108529000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "200474000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.81"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11422233000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "5544000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "42837000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "46924000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "121643000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "211404000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.9"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11508384000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "9607000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "60415000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "41030000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "135373000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "236818000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.14"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11498944000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "4585000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "58518000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "53801000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "117133000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "229452000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.04"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11534793000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "3633000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "46774000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "38180000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "131993000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "216947000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.91"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "11663448000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "3473000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "38978000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "34296000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "126209000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "199483000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.74"
+    }
+  ]
+}

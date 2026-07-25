@@ -1,0 +1,744 @@
+{
+  "query": {
+    "financeCd": "0010268",
+    "listNo": "ST117",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "14499795000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "31406000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "85712000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "33776000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "30123000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "149611000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.25"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "14981219000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "8353000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "35212000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "94506000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "26456000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "156174000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.1"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15314287000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "37422000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "50633000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "28904000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "78966000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "158503000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.28"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15790053000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "8349000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "56727000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "38250000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "61399000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "156376000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.04"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "16146408000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "34678000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "141147000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "79797000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "61307000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "282251000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.96"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "16330654000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "40983000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "43075000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "101374000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "39385000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "183834000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.38"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "16704509000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "54073000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "94093000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "65467000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "72431000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "231991000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.71"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "16715105000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "25819000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "77084000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "122323000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "59059000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "258466000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.7"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "16419167000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "14615000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "154894000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "97080000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "121539000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "373513000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.36"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "16569414000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "10762000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "53303000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "122177000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "121548000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "297028000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.86"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "16421022000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "10832000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "88218000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "56618000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "161945000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "306781000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.93"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15970182000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "9057000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "38677000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "67359000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "143775000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "249811000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.62"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15807778000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "72658000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "104873000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "39526000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "157069000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "301468000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.37"
+    }
+  ]
+}

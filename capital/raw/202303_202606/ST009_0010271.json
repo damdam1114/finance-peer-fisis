@@ -1,0 +1,1056 @@
+{
+  "query": {
+    "financeCd": "0010271",
+    "listNo": "ST009",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "36968013000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5135509000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "4657165000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "4246396000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "625285000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "291417000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".79"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "5.67"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.69"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "91.18"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "37875279530000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5197028710000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "4712220830000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "4254606540000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "625847260000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "339583250000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".9"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.53"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.65"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.29"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38348287850000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5278157120000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "4489181230000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "4049087440000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "616432590000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "318612320000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".83"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.04"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.61"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.2"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38854320890000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5364126330000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "4988667690000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "4478272090000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "640532790000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "408457600000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.05"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.61"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.65"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.77"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38810557680000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5478484420000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "5131950350000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "4541105830000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "702350720000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "475211310000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.22"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "8.67"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.81"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "88.49"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38559120220000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5580745520000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "5293002530000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "4743011790000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "701872730000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "433050990000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.12"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.76"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.82"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.61"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38437140370000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5682498390000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "5106294260000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "4539422500000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "719241930000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "444696660000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.16"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.83"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.87"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "88.9"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38360510860000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5776251150000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "5698594060000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "5151943890000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "707634560000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "414453470000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.08"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.18"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.84"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.41"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38313970360000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5852879180000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "5616953970000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "5082143760000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "718308990000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "404758610000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.06"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.92"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.87"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.48"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38336565470000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5933880130000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "5943105180000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "5419016380000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "736177840000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "393290670000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.03"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.63"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.92"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "91.18"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38610133020000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "6026302340000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "6000055630000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "5449896180000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "735149110000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "411491970000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.07"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.83"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.9"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.83"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "39027003920000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "6146478130000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "5321426780000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "4753901020000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "739561290000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "432601200000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.11"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.04"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.89"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.34"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "38873807430000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "5889397110000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "6001859680000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "5440857860000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "714510930000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "415578750000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.07"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.06"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.84"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.65"
+    }
+  ]
+}

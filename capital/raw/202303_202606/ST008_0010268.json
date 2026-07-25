@@ -1,0 +1,1160 @@
+{
+  "query": {
+    "financeCd": "0010268",
+    "listNo": "ST008",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "값"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "14608315000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "63964000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "60777000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "3734000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "128475000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "166043000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "194086000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": ".88"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "116.89"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.33"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "151.07"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15099410000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "69912000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "77711000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "9850000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "157473000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "183648000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "213461000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.04"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "116.23"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.41"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "135.55"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15386124000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "68412000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "76522000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "9258000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "154193000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "189316000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "223182000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "117.89"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.45"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "144.74"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15832066000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "75864000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "74250000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "11195000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "161309000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "194339000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "231382000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.02"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "119.06"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.46"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "143.44"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16208827000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "97977000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "91923000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "10903000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "200804000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "214076000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "257354000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.24"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "120.22"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.59"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "128.16"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16410530000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "118325000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "87399000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "9449000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "215174000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "207432000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "256578000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.31"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "123.69"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.56"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "119.24"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16802333000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "92254000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "139819000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "11312000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "243385000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "238436000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "305236000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.45"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "128.02"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.82"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "125.41"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16825738000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "100882000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "127338000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "15656000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "243877000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "232660000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "302329000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.45"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "129.94"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.8"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "123.97"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16522829000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "135983000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "135654000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "17787000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "289424000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "246175000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "316137000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.75"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "128.42"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.91"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "109.23"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16666502000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "139247000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "135356000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "18002000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "292605000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "246441000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "325004000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.76"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "131.88"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.95"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "111.07"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16518034000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "138554000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "161171000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "21331000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "321056000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "263859000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "330164000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.94"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "125.13"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "102.84"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16064010000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "100034000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "134783000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "24637000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "259454000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "233889000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "326366000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.62"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "139.54"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.03"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "125.79"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15902233260000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "93620270000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "121516910000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "32841240000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "247978420000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "228612000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "312222000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.56"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "136.57"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "1.96"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "125.91"
+    }
+  ]
+}

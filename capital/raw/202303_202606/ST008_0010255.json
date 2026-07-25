@@ -1,0 +1,1160 @@
+{
+  "query": {
+    "financeCd": "0010255",
+    "listNo": "ST008",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "값"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "10783874530000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "72474220000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "53187580000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "43130770000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "168792560000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "188628000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "300191000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.57"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "159.14"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.78"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "177.85"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "10782515310000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "125890740000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "56069840000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "45818800000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "227779390000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "214654000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "325947000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.11"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "151.85"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.02"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "143.1"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "10790210410000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "145546120000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "51586240000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "24987340000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "222119700000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "202401000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "272678000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.06"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "134.72"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.53"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "122.76"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11463769520000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "189911510000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "59669200000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "22527780000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "272108480000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "220805000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "339480000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.37"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "153.75"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.96"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "124.76"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11351549360000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "188223350000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "75898990000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "27755490000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "291877830000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "231687000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "344741000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.57"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "148.8"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.04"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "118.11"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11584963440000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "108481410000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "140352130000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "27820370000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "276653900000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "244696000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "327773000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.39"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "133.95"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.83"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "118.48"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11522072580000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "78631210000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "138735740000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "27933490000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "245300440000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "236712000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "295988000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.13"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "125.04"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.57"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "120.66"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11571606520000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "49012640000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "143209340000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "28598900000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "220820880000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "231781000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "296295000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.91"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "127.83"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.56"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "134.18"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11422597750000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "57801410000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "151307420000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "49115010000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "258223840000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "257643000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "308962000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.26"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "119.92"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.7"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "119.65"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11508471210000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "86975890000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "156689040000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "30930660000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "274595580000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "246981000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "291240000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.39"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "117.92"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.53"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "106.06"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11498981030000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "46990970000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "120424000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "49976090000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "217391060000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "232301000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "274404000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.89"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "118.12"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.39"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "126.23"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11534811000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "60735000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "117703000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "44143000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "222581000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "221660000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "271684000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.93"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "122.57"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.36"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "122.06"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "11663452120000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "85799440000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "126834170000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "27525080000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "240158690000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "217178000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "281259000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.06"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "129.51"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.41"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "117.11"
+    }
+  ]
+}

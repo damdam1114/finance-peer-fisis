@@ -1,0 +1,1056 @@
+{
+  "query": {
+    "financeCd": "0010255",
+    "listNo": "ST009",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12468436740000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1514382180000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1405450910000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1176130090000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "98095400000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "173484910000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.39"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "11.46"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".79"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "83.68"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12483898310000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1540162760000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1437403540000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1272938460000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "99080190000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "128783540000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.03"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "8.36"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".79"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "88.56"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12316207350000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1561247980000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1472962660000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1318280340000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "97670400000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "123718660000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.92"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".79"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.5"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12217028170000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1582214760000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1508115340000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1405167660000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "96385970000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "101099340000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".83"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.39"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".79"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "93.17"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12325652170000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1602008760000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1556608200000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1457220800000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "97304020000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "96491200000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".78"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.02"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".79"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "93.62"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12400516210000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1625436940000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1618556610000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1492789390000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "98687830000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "115382610000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".93"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.1"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".8"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "92.23"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12571732550000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1649831230000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1697435850000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1576044150000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "102535390000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "113345850000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".9"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.87"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".82"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "92.85"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12691244540000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1674798150000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1733438610000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1605953390000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "103772580000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "123250610000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".97"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.36"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".82"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "92.65"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12662848810000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1700852100000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1799049500000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1624284440000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "106435820000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "145779450000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.15"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "8.57"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".84"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.29"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12655517870000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1724307780000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1830349000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1671119000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "108181960000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "134544670000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.06"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.8"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".85"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "91.3"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12566099990000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1747537500000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1863823370000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1688640000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "107887770000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "148038730000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.18"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "8.47"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".86"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.6"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12441323000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1775154000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1905369000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1710216000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "107532000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "156896000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.26"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "8.84"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".86"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.76"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "12447175730000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1803911200000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1920286660000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1721634740000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "107985620000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "163162150000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.31"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "9.04"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".87"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010255",
+      "finance_nm": "우리금융캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.66"
+    }
+  ]
+}

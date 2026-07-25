@@ -1,0 +1,1160 @@
+{
+  "query": {
+    "financeCd": "0013202",
+    "listNo": "ST008",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "값"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7097385000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "82383000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "25406000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "12086000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "119875000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "157232000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "187581000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.69"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "119.3"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.64"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "156.48"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6924233000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "227138000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "25586000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "14355000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "267079000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "190269000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "223611000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "3.86"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "117.52"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.23"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "83.72"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6765909000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "308368000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "31539000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "18504000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "358411000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "216949000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "253881000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "5.3"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "117.02"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.75"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "70.84"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6413387000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "228704000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "38495000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "15744000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "282943000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "210391000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "242866000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "4.41"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "115.44"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.79"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "85.84"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6509736000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "392313000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "40976000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "17914000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "451202000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "272653000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "299859000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "6.93"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "109.98"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.61"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "66.46"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6379059000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "154516000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "19334000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "18502000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "192352000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "180884000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "197803000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "3.02"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "109.35"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.1"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "102.83"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6524523000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "175167000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "16956000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "10766000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "202889000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "172324000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "193326000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "3.11"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "112.19"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.96"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "95.29"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6913272000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "193756000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "19562000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "11733000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "225051000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "182188000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "203457000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "3.26"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "111.67"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.94"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "90.4"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7006892000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "637799000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "21485000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "11685000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "670969000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "279242000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "310490000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "9.58"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "111.19"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.43"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "46.27"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7287999000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "679114000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "16245000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "16734000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "712092000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "287609000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "317692000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "9.77"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "110.46"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.36"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "44.61"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7957290000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "708212000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "16543000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "14556000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "739311000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "301274000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "333149000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "9.29"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "110.58"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.19"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "45.06"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "8576577000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "651265000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "23039000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "16547000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "690852000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "299903000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "330501000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "8.06"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "110.2"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.85"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "47.84"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "8979921000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "654655000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "15611000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "21936000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "692202000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "308600000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "339468000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "7.71"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "110"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.78"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "49.04"
+    }
+  ]
+}

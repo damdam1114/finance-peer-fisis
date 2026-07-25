@@ -1,0 +1,1160 @@
+{
+  "query": {
+    "financeCd": "0010271",
+    "listNo": "ST008",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "값"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "33277152000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "262134000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "340387000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "177335000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "779857000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "729208000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "934072000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.34"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "128.09"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.81"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "119.77"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "33845586000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "271821240000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "321737590000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "139948000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "733506830000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "677979000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "874459000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.17"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "128.98"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.58"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "119.22"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "34149004820000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "280524740000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "319803900000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "133223410000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "733552050000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "685025000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "889368000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.15"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "129.83"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.6"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "121.24"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "34890387750000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "293831160000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "330345930000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "142356460000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "766533540000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "710121000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "921074000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.2"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "129.71"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.64"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "120.16"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "34819769890000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "298884350000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "329010710000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "133083080000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "760978130000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "697680000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "907737000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.19"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "130.11"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.61"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "119.29"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "34805552660000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "298286810000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "332399180000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "127411870000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "758097850000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "689914000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "899766000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.18"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "130.42"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.59"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "118.69"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "34637741930000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "289034590000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "333368210000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "126604590000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "749007400000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "686675000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "898559000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.16"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "130.86"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.59"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "119.97"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "35003820160000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "292220720000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "342172730000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "129358230000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "763751670000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "691348000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "906129000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.18"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "131.07"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.59"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "118.64"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "34654854660000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "289615610000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "348677070000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "129829260000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "768121940000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "691584000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "904566000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.22"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "130.8"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.61"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "117.76"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "35184988180000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "282182710000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "342992710000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "124460100000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "749635510000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "688974000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "900039000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.13"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "130.63"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.56"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "120.06"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "35531050230000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "277917650000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "316050680000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "126748960000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "720717290000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "673957000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "877236000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.03"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "130.16"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.47"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "121.72"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "36228491130000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "295716240000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "314737920000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "128598130000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "739052290000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "684309000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "890158000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.04"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "130.08"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.46"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "120.45"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "36204375180000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "291703570000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "306542810000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "132434240000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "730680620000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "673413000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "874504000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.02"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "129.86"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.42"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010271",
+      "finance_nm": "현대캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "119.68"
+    }
+  ]
+}

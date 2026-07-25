@@ -1,0 +1,1056 @@
+{
+  "query": {
+    "financeCd": "0010268",
+    "listNo": "ST009",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "15478415000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1802502000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1531478000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1166673000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "77391000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "221672000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.43"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "12.3"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".5"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "76.18"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "16236990000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1853616000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1689758000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1346475000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "81120000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "212179000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.31"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "11.45"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".5"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "79.68"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "16875495000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1905725000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1845238000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1537220000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "82383000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "186417000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.1"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "9.78"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".49"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "83.31"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "17407719000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2125168000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1887047000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1618316000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "82169000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "163373000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".94"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.69"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".47"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "85.76"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "17923195000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2152923000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1994637000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1738513000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "85481000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "142169000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".79"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.6"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".48"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "87.16"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "18296231000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2210022000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2123629000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1870397000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "87209000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "148199000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".81"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.71"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".48"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "88.08"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "18632743000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2225794000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2232899000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2052682000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "87957000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "105797000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".57"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.75"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".47"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "91.93"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "18912039000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2230495000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2344123000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2192853000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "86789000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "95180000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".5"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.27"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".46"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "93.55"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "18946710000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2234313000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2388210000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2276252000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "86999000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "44062000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".23"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "1.97"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".46"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "95.31"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "28251935000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2213210000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1398716000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1482791000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "89611000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "-14115000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "-.05"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "-.64"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".32"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "106.01"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "18836757000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2257873000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2462016000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2389958000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "91762000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "17822000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".09"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": ".79"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".49"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "97.07"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "18768567000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2255110000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2474462000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2413448000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "94666000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "23480000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".13"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "1.04"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".5"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "97.53"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "18449064960000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2271382630000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2499499830000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2408557330000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "98054130000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "105868760000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".57"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.66"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".53"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010268",
+      "finance_nm": "하나캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "96.36"
+    }
+  ]
+}

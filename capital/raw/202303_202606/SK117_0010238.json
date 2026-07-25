@@ -1,0 +1,744 @@
+{
+  "query": {
+    "financeCd": "0010238",
+    "listNo": "SK117",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7904797000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "26924000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "43715000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "41413000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "15060000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "100188000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.61"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7844289000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "8693000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "259000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "49538000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "41064000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "90861000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.27"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7856864000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "1130000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "1170000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "4934000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "73347000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "79451000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.03"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7496301000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "37156000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "12949000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "2177000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "43820000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "58946000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.28"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7437614000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "2108000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "94585000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "36741000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "32164000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "163490000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.23"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7058022000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "14654000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "52876000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "66023000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "39773000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "158672000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.46"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6934927000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "36125000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "53140000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "40551000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "48314000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "142005000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.57"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6673328000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "29576000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "76475000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "50249000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "26879000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "153603000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.74"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6896043000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "20824000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "32013000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "71699000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "71502000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "175214000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.84"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6966997000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "8917000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "51665000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "19849000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "89227000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "160741000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.44"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7205556000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "8744000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "14225000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "44911000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "83543000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "142679000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.1"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7281246000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "15020000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "28000000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "10430000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "59168000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "97598000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.55"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7288885000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "31444000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "79912000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "0"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "61193000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "141105000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.37"
+    }
+  ]
+}

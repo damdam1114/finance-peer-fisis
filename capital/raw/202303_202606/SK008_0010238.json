@@ -1,0 +1,1160 @@
+{
+  "query": {
+    "financeCd": "0010238",
+    "listNo": "SK008",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "값"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "8146996670000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "89158080000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "8333990000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "487270000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "97979330000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "120287000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "168543000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.2"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "140.12"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.07"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "172.02"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "8099691550000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "113105330000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "16574620000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "8761210000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "138441160000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "182023000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "228906000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.71"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "125.76"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.83"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "165.35"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "8140463760000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "113282810000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "10811010000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "1263300000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "125357130000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "170917000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "203159000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.54"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "118.86"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.5"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "162.06"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7496301870000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "110712680000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "15024300000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "4597130000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "130334100000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "175132000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "288250000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "1.74"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "164.59"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.85"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "221.16"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7597614890000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "109901150000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "40224560000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "2292970000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "152418690000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "194000000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "333993000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.01"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "172.16"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.4"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "219.13"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7218021660000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "356903430000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "81749510000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "1010260000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "439663200000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "279277000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "439663000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "6.09"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "157.43"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "6.09"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "100"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6934927020000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "340058500000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "72667390000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "680420000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "413406320000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "252793000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "413407000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "5.96"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "163.54"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "5.96"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "100"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6743327290000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "195864800000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "70363250000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "2343180000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "268571220000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "198831000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "301749000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "3.98"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "151.76"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.47"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "112.35"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6896042330000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "222573560000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "87100580000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "1320960000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "310995100000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "217412000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "310994000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "4.51"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "143.04"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.51"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "100"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "6966996340000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "134425480000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "58528110000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "1798260000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "194751860000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "168368000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "258779000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.8"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "153.7"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.71"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "132.88"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7205555700000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "107001740000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "83115720000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "8611820000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "198729280000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "187462000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "274311000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.76"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "146.33"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.81"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "138.03"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7281245570000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "79834000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "86239020000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "1709070000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "167782090000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "179059000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "301774000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.3"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "168.53"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.14"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "179.86"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "7288884320000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "137820820000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "93467830000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "10192590000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "241481240000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "203130000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "342158000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "3.31"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "168.44"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "4.69"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010238",
+      "finance_nm": "신한캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "141.69"
+    }
+  ]
+}

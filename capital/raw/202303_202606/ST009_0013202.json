@@ -1,0 +1,1056 @@
+{
+  "query": {
+    "financeCd": "0013202",
+    "listNo": "ST009",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8682523000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1272677000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "972020000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "677597000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "89500000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "216011000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "2.49"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "16.97"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.03"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "69.71"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8802725000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1278905000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "991999000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "705732000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "89745000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "208621000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "2.37"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "16.31"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.02"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "71.14"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8765210000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1296060000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1240706000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "860370000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "87181000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "215489000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "2.46"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "16.63"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".99"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "69.35"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8812258000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1334038000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "994068000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "781065000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "82158000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "147677000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.68"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "11.07"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".93"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "78.57"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8735136000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1389096000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1003534000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "843247000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "77509000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "104618000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.2"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.53"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".89"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "84.03"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8668226000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1418054000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1026717000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "791522000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "73450000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "185466000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "2.14"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "13.08"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".85"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "77.09"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8551756000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1499539000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1037884000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "816659000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "69799000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "179711000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "2.1"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "11.98"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".82"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "78.68"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8492041000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1543329000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "996342000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "831269000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "48074000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "132240000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.56"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "8.57"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".57"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "83.43"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8503466000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1604152000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "967442000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "855018000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "46601000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "79481000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".93"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.95"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".55"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "88.38"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8685191000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1665962000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "987723000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "934002000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "46461000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "19537000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".22"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "1.17"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".53"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "94.56"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "8983723000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1683795000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "989177000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "959756000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "43615000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "-1312000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "-.01"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "-.08"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".49"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "97.03"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "9454265000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1711860000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "988367000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "925549000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "64201000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "27804000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".29"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "1.62"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".68"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "93.64"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "9956808000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "1726380000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1037229000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "880776000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "68295000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "114916000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.15"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.66"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".69"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "84.92"
+    }
+  ]
+}

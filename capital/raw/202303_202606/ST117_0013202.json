@@ -1,0 +1,744 @@
+{
+  "query": {
+    "financeCd": "0013202",
+    "listNo": "ST117",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7075297000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "16843000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "157186000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "7978000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "93819000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "258983000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "3.9"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6907543000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "56822000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "13208000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "8233000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "240484000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "261925000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "4.61"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6749220000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "22631000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "44506000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "56486000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "242237000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "343229000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "5.42"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6413387000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "116122000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "155986000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "62831000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "173190000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "392007000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "7.92"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6509735000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "31355000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "209363000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "139950000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "279602000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "628915000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "10.14"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6379058000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "51654000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "121162000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "34624000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "194148000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "349934000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "6.3"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6524525000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "68273000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "20031000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "36442000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "131015000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "187488000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "3.92"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "6913273000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "24733000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "31168000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "41172000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "161993000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "234333000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "3.75"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7006893000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "296079000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "144431000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "31497000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "209619000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "385547000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "9.73"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7287998000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "80961000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "70971000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "313891000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "242853000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "627715000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "9.72"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "7957290000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "15976000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "43263000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "72292000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "557919000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "673474000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "8.66"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "8576578000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "34344000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "38483000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "37198000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "583530000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "659211000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "8.09"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "8979920000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "3684000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "12493000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "18927000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "605752000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "637172000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0013202",
+      "finance_nm": "메리츠캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "7.14"
+    }
+  ]
+}
