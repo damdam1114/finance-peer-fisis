@@ -22,6 +22,7 @@ import json
 import os
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -57,6 +58,19 @@ SML_DIVS = {
 
 REQUEST_INTERVAL_SEC = 0.4  # 일일 허용횟수 고려, 과도한 연속호출 방지
 
+# 만나면 즉시 수집을 중단해야 하는 치명적 상태.
+#   020 일일 허용횟수 초과 / 021 허용 IP 아님 / HTTP 429 Too Many Requests
+# 이런 상황에서 계속 호출하면 남은 쿼터만 낭비하고 IP 차단 위험이 커진다.
+FATAL_ERR_CDS = {"020", "021"}
+
+
+class FisisFatalError(RuntimeError):
+    """수집 전체를 즉시 중단시켜야 하는 오류(쿼터 초과/IP 차단/429)."""
+
+
+class FisisApiError(RuntimeError):
+    """개별 호출 실패(누락 파라미터 등). 해당 항목만 건너뛰고 계속 가능."""
+
 
 def auth_key() -> str:
     key = os.environ.get("FISIS_AUTH_KEY")
@@ -66,11 +80,21 @@ def auth_key() -> str:
 
 
 def call(endpoint: str, params: dict) -> ET.Element:
-    """API 호출 후 XML 루트 반환. err_cd 검사 포함."""
+    """API 호출 후 XML 루트 반환. err_cd 검사 포함.
+
+    치명적 상태(020/021/HTTP 429)는 FisisFatalError 로 올려 수집을 중단시킨다.
+    그 외 err_cd 는 FisisApiError 로 올려 호출부가 해당 항목만 건너뛸 수 있게 한다.
+    """
     params = {"lang": "kr", "auth": auth_key(), **params}
     url = f"{BASE_URL}/{endpoint}.xml?{urllib.parse.urlencode(params)}"
-    with urllib.request.urlopen(url, timeout=30) as resp:
-        body = resp.read()
+    ctx = f"{endpoint} {params.get('lrgDiv') or params.get('partDiv') or params.get('listNo') or ''}".strip()
+    try:
+        with urllib.request.urlopen(url, timeout=30) as resp:
+            body = resp.read()
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            raise FisisFatalError(f"HTTP 429 Too Many Requests ({ctx}) — 수집 중단") from e
+        raise FisisApiError(f"HTTP {e.code} ({ctx})") from e
 
     # FISIS는 euc-kr 응답 사례가 있어 방어적으로 디코딩
     for enc in ("utf-8", "euc-kr", "cp949"):
@@ -80,12 +104,15 @@ def call(endpoint: str, params: dict) -> ET.Element:
         except UnicodeDecodeError:
             continue
     else:
-        raise RuntimeError("응답 디코딩 실패")
+        raise FisisApiError(f"응답 디코딩 실패 ({ctx})")
 
     root = ET.fromstring(text)
     err_cd = root.findtext("err_cd")
     if err_cd != "000":
-        raise RuntimeError(f"API 오류 {err_cd}: {root.findtext('err_msg')} ({endpoint} {params.get('lrgDiv') or params.get('partDiv') or ''})")
+        msg = f"API 오류 {err_cd}: {root.findtext('err_msg')} ({ctx})"
+        if err_cd in FATAL_ERR_CDS:
+            raise FisisFatalError(msg + " — 수집 중단")
+        raise FisisApiError(msg)
 
     time.sleep(REQUEST_INTERVAL_SEC)
     return root
@@ -104,42 +131,50 @@ def build_catalog(sector: str):
     """권역별 통계목록 + 계정항목 + 회사목록을 전수 수집해 카탈로그 JSON 생성."""
     cfg = SECTORS[sector]
     catalog = {"sector": sector, "label": cfg["label"], "divisions": {}}
+    aborted = None
 
-    for div_cd, div_nm in cfg["divs"].items():
-        print(f"\n=== [{div_cd}] {div_nm} ===")
-        entry = {"name": div_nm, "companies": [], "statistics": []}
+    try:
+        for div_cd, div_nm in cfg["divs"].items():
+            print(f"\n=== [{div_cd}] {div_nm} ===")
+            entry = {"name": div_nm, "companies": [], "statistics": []}
 
-        # 회사 목록
-        try:
-            entry["companies"] = rows(call("companySearch", {"partDiv": div_cd}))
-            print(f"  회사 {len(entry['companies'])}건")
-        except Exception as e:
-            print(f"  회사 조회 실패: {e}")
-
-        # 통계표 목록 (소분류별)
-        for sml_cd, sml_nm in SML_DIVS.items():
+            # 회사 목록 (FisisFatalError 는 잡지 않고 위로 전파 → 수집 중단)
             try:
-                stats = rows(call("statisticsListSearch", {"lrgDiv": div_cd, "smlDiv": sml_cd}))
-            except Exception as e:
-                print(f"  [{sml_cd}] {sml_nm} 조회 실패: {e}")
-                continue
-            if not stats:
-                continue
-            print(f"  [{sml_cd}] {sml_nm}: 통계표 {len(stats)}건")
+                entry["companies"] = rows(call("companySearch", {"partDiv": div_cd}))
+                print(f"  회사 {len(entry['companies'])}건")
+            except FisisApiError as e:
+                print(f"  회사 조회 실패: {e}")
 
-            # 각 통계표의 계정항목까지 바인딩
-            for st in stats:
-                list_no = st.get("list_no")
+            # 통계표 목록 (소분류별)
+            for sml_cd, sml_nm in SML_DIVS.items():
                 try:
-                    st["accounts"] = rows(call("accountListSearch", {"listNo": list_no}))
-                except Exception as e:
-                    st["accounts"] = []
-                    print(f"      {list_no} 계정항목 실패: {e}")
-                st["sml_div_cd"] = sml_cd
-                print(f"      {list_no} {st.get('list_nm')} (계정 {len(st['accounts'])}개)")
-            entry["statistics"].extend(stats)
+                    stats = rows(call("statisticsListSearch", {"lrgDiv": div_cd, "smlDiv": sml_cd}))
+                except FisisApiError as e:
+                    print(f"  [{sml_cd}] {sml_nm} 조회 실패: {e}")
+                    continue
+                if not stats:
+                    continue
+                print(f"  [{sml_cd}] {sml_nm}: 통계표 {len(stats)}건")
 
-        catalog["divisions"][div_cd] = entry
+                # 각 통계표의 계정항목까지 바인딩
+                for st in stats:
+                    list_no = st.get("list_no")
+                    try:
+                        st["accounts"] = rows(call("accountListSearch", {"listNo": list_no}))
+                    except FisisApiError as e:
+                        st["accounts"] = []
+                        print(f"      {list_no} 계정항목 실패: {e}")
+                    st["sml_div_cd"] = sml_cd
+                    print(f"      {list_no} {st.get('list_nm')} (계정 {len(st['accounts'])}개)")
+                entry["statistics"].extend(stats)
+
+            catalog["divisions"][div_cd] = entry
+    except FisisFatalError as e:
+        # 쿼터 초과/IP 차단/429: 여기까지 모은 부분 카탈로그를 저장하고 중단한다.
+        aborted = str(e)
+        print(f"\n!! 치명적 오류로 수집 중단: {e}")
+        print("!! 여기까지 수집한 부분 카탈로그를 저장한다.")
+        catalog["aborted"] = aborted
 
     out_path = REPO_ROOT / sector / "schema" / "fisis_catalog.json"
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -147,6 +182,10 @@ def build_catalog(sector: str):
     print(f"\n카탈로그 저장: {out_path}")
 
     _write_catalog_md(sector, catalog)
+
+    if aborted:
+        # 호출자(및 셸)가 중단을 인지하도록 비정상 종료
+        sys.exit(f"수집이 완료되지 않음(부분 저장됨): {aborted}")
 
 
 def _write_catalog_md(sector: str, catalog: dict):
