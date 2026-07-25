@@ -1,0 +1,744 @@
+{
+  "query": {
+    "financeCd": "0010250",
+    "listNo": "SK117",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "14301774000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "19871000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "140493000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "105839000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "114128000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "360460000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.66"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "14842449000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "22076000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "92210000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "138602000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "165515000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "396327000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.82"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "14913139000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "28637000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "72317000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "89238000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "206821000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "368376000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.66"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15035260000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "29694000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "79754000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "69116000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "184773000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "333643000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.42"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15375955000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "4002000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "88241000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "57086000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "177952000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "323279000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.13"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15742496000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "35014000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "53852000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "66651000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "157418000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "277921000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.99"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15752033000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "4195000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "77887000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "91744000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "158833000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "328464000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.11"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15839853000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "5600000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "78268000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "87133000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "143654000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "309055000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.99"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15672999000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "5434000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "125969000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "89239000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "176712000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "391920000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.54"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15845116000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "5195000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "70114000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "113301000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "179400000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "362815000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.32"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15764165000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "5103000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "63808000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "76350000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "159316000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "299474000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.93"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "15791630000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "4886000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "70776000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "65642000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "143491000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "279909000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "1.8"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "연체율 산정 총채권(대차대조표  기준)",
+      "a": "16234357000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1개월미만 연체액",
+      "a": "18639000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_1~3개월 연체액",
+      "a": "156271000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_3~6개월 연체액",
+      "a": "68830000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_6개월이상 연체액",
+      "a": "121338000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A5",
+      "account_nm": "연체율 산정 총채권(관리자산 기준)_연체액계",
+      "a": "346439000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "연체채권비율",
+      "a": "2.25"
+    }
+  ]
+}

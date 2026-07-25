@@ -1,0 +1,1160 @@
+{
+  "query": {
+    "financeCd": "0010250",
+    "listNo": "SK008",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "값"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "14439121000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "206758000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "168761000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "48071000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "423590000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "348238000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "430689000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.93"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "123.68"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "2.98"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "101.68"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "14994758000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "200871000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "155268000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "56702000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "412842000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "346841000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "461247000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.75"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "132.99"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.08"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "111.72"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15050590000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "196156000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "152082000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "53345000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "401583000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "343888000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "458367000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.67"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "133.29"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.05"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "114.14"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15162625000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "209791000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "153097000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "56131000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "419020000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "353132000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "486617000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.76"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "137.8"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.21"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "116.13"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15493133000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "210996000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "161583000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "62034000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "434613000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "367054000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "500140000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.81"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "136.26"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.23"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "115.08"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15854468000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "154934000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "173822000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "73198000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "401953000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "371235000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "500969000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.54"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "134.95"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.16"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "124.63"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15880927000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "184205000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "184610000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "70143000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "438958000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "404117000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "545242000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.76"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "134.92"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.43"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "124.21"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15992479000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "136352000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "190813000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "74902000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "402067000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "372050000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "533736000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.51"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "143.46"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.34"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "132.75"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15831626000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "157112000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "187543000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "82836000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "427491000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "382677000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "536850000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.7"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "140.29"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.39"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "125.58"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15977551000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "169507000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "190590000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "95702000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "455799000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "397139000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "550899000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.85"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "138.72"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.45"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "120.86"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15900153000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "146286000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "191441000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "70710000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "408437000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "361743000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "509731000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.57"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "140.91"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.21"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "124.8"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "15931250000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "143755000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "184607000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "66098000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "394460000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "350496000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "515718000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.48"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "147.14"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.24"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "130.74"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "건전성 분류 총채권",
+      "a": "16336590000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A1",
+      "account_nm": "건전성 분류 총채권_고정",
+      "a": "152770000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A2",
+      "account_nm": "건전성 분류 총채권_회수의문",
+      "a": "175722000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A3",
+      "account_nm": "건전성 분류 총채권_추정손실",
+      "a": "93844000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A4",
+      "account_nm": "건전성 분류 총채권_고정이하여신",
+      "a": "422335000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "대손충당금 요적립액",
+      "a": "387047000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "대손충당금 실적립액",
+      "a": "540307000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "고정이하여신비율",
+      "a": "2.59"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "대손충당금적립비율(요적립액 대비)",
+      "a": "139.6"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "대손충당금적립비율(총여신 대비)",
+      "a": "3.31"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "대손충당금적립비율(고정이하여신 대비)",
+      "a": "127.93"
+    }
+  ]
+}

@@ -1,0 +1,1056 @@
+{
+  "query": {
+    "financeCd": "0010250",
+    "listNo": "SK009",
+    "term": "Q",
+    "startBaseMm": "202303",
+    "endBaseMm": "202606",
+    "sector": "capital"
+  },
+  "columns": {
+    "a": "금액"
+  },
+  "unit": "원,%",
+  "rows": [
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "15309944000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2064610000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1959203000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1806059000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "154149000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "100208000000"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".65"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.85"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1.01"
+    },
+    {
+      "base_month": "202303",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "92.18"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "15472189000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2107635000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2067379000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1909598000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "154185000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "111774000000"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".72"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "5.3"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": "1"
+    },
+    {
+      "base_month": "202306",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "92.37"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "15651651000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2149339000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2144035000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2002092000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "151190000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "98034000000"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".63"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "4.56"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".97"
+    },
+    {
+      "base_month": "202309",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "93.38"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "15824234000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2191125000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2276325000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2084530000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "150557000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "141438000000"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".89"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.46"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".95"
+    },
+    {
+      "base_month": "202312",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "91.57"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "16092087000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2238955000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2371479000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2172038000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "152723000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "142879000000"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": ".89"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.38"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".95"
+    },
+    {
+      "base_month": "202403",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "91.59"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "16398509000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2826623000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2453598000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2178446000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "155095000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "214944000000"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.31"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "7.6"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".95"
+    },
+    {
+      "base_month": "202406",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "88.79"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "16729973000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "3435309000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2495220000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2252174000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "156500000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "180685000000"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.08"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "5.26"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".94"
+    },
+    {
+      "base_month": "202409",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.26"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "17075500000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "3450780000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "3192598000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2889459000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "156398000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "207005000000"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.21"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".92"
+    },
+    {
+      "base_month": "202412",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "90.5"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "17303731000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "3536588000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "1283637000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "1177931000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "156798000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "210115000000"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.21"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "5.94"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".91"
+    },
+    {
+      "base_month": "202503",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "91.77"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "17485628000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "3100203000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2630086000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2365912000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "160058000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "202523000000"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.16"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "6.53"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".92"
+    },
+    {
+      "base_month": "202506",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.96"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "17580305000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "3757192000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2697998000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2417375000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "162212000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "214353000000"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.22"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "5.71"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".92"
+    },
+    {
+      "base_month": "202509",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "89.6"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "17644944000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2574271000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "3377674000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2303596000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "156774000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "299576000000"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.7"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "11.64"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".89"
+    },
+    {
+      "base_month": "202512",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "68.2"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "A",
+      "account_nm": "총자산(평잔)",
+      "a": "17808192000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "I",
+      "account_nm": "자본(평잔)",
+      "a": "2615035000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "B",
+      "account_nm": "세전수익",
+      "a": "2693642000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "C",
+      "account_nm": "세전비용",
+      "a": "2351077000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "D",
+      "account_nm": "총경비",
+      "a": "157166000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "E",
+      "account_nm": "당기순이익",
+      "a": "261844000000"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "F",
+      "account_nm": "총자산순이익률(ROA)",
+      "a": "1.47"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "J",
+      "account_nm": "자기자본순이익률(ROE)",
+      "a": "10.01"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "G",
+      "account_nm": "총자산경비율",
+      "a": ".88"
+    },
+    {
+      "base_month": "202603",
+      "finance_cd": "0010250",
+      "finance_nm": "케이비캐피탈㈜",
+      "account_cd": "H",
+      "account_nm": "수지비율",
+      "a": "87.28"
+    }
+  ]
+}
